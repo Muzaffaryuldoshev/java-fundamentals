@@ -4,13 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="Selection statements part 1">
-      <change afterPath="$PROJECT_DIR$/src/selectionstatements_01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selectionstatements_01/DaySelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selectionstatements_01/LaptopModels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selectionstatements_01/TrafficLight.java" afterDir="false" />
+    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="Selection statements part 2">
+      <change afterPath="$PROJECT_DIR$/src/loops_02/DifferentStartEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/FINRA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/FIZZBUZZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/KPHtoMPH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/NumberTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/OddNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/SquareOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/SumEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/from1to10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_02/squarePattern1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selectionstatements_01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/selectionstatements_01/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +32,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="18" />
+    <option name="cachedIndexableFilesCount" value="36" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -63,15 +77,33 @@
   "keyToString": {
     "Application.Calculator.executor": "Run",
     "Application.DaySelector.executor": "Run",
+    "Application.DifferentStartEnd.executor": "Run",
+    "Application.EvenNumbers.executor": "Run",
+    "Application.FINRA.executor": "Run",
+    "Application.FIZZBUZZ.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
     "Application.Grade.executor": "Run",
     "Application.GradeNetsedIf.executor": "Run",
     "Application.GreatestNum.executor": "Run",
     "Application.GreetingHours.executor": "Run",
+    "Application.KPHtoMPH.executor": "Run",
     "Application.LaptopModels.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NestedLoops.executor": "Run",
     "Application.Number.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
+    "Application.OddNums.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
     "Application.Revenue.executor": "Run",
+    "Application.SquareOfNumbers.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.SumEvenOdd.executor": "Run",
     "Application.TrafficLight.executor": "Run",
     "Application.WeeklyWage.executor": "Run",
+    "Application.doWhile.executor": "Run",
+    "Application.from1to10.executor": "Run",
+    "Application.squarePattern1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,6 +111,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -89,18 +122,18 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DaySelector">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selectionstatements_01.Calculator" />
+  <component name="RunManager" selected="Application.FINRA">
+    <configuration name="FINRA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_02.FINRA" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selectionstatements_01.*" />
+          <option name="PATTERN" value="loops_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaySelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selectionstatements_01.DaySelector" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_02.FibonacciSeries" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selectionstatements_01.*" />
+          <option name="PATTERN" value="loops_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeNetsedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selectionstatements_01.GradeNetsedIf" />
+    <configuration name="doWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_02.doWhile" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selectionstatements_01.*" />
+          <option name="PATTERN" value="loops_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LaptopModels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selectionstatements_01.LaptopModels" />
+    <configuration name="from1to10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_02.from1to10" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selectionstatements_01.*" />
+          <option name="PATTERN" value="loops_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrafficLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selectionstatements_01.TrafficLight" />
+    <configuration name="squarePattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_02.squarePattern1" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selectionstatements_01.*" />
+          <option name="PATTERN" value="loops_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DaySelector" />
-        <item itemvalue="Application.LaptopModels" />
-        <item itemvalue="Application.TrafficLight" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.GradeNetsedIf" />
+        <item itemvalue="Application.FINRA" />
+        <item itemvalue="Application.squarePattern1" />
+        <item itemvalue="Application.doWhile" />
+        <item itemvalue="Application.from1to10" />
+        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +221,10 @@
       <workItem from="1785327957746" duration="862000" />
       <workItem from="1785508687290" duration="1246000" />
       <workItem from="1785593064206" duration="7853000" />
-      <workItem from="1786362230014" duration="6753000" />
+      <workItem from="1786362230014" duration="7399000" />
+      <workItem from="1786533976240" duration="4394000" />
+      <workItem from="1786622639782" duration="4403000" />
+      <workItem from="1787230525600" duration="2270000" />
     </task>
     <task id="LOCAL-00001" summary="Selection statements part 1">
       <option name="closed" value="true" />
@@ -198,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786531309513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Selection statements part 2">
+      <option name="closed" value="true" />
+      <created>1786533574798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786533574798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +250,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selection statements part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selection statements part 1" />
+    <MESSAGE value="Selection statements part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection statements part 2" />
   </component>
 </project>
