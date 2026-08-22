@@ -11,18 +11,9 @@ or `javac`/`java` from the command line.
 
 | # | Package | Topic |
 |---|---------|-------|
-| 01 | [`oop_01`](./src/oop_01) | OOP fundamentals — inheritance, polymorphism, interfaces, access modifiers | 
-| 02 | [`collections_02`](./src/collections_02) | List, Map, Set |
-| 03 | [`exceptions_03`](./src/exceptions_03) | Exception handling, custom exceptions |
-| 04 | [`strings_04`](./src/strings_04) | String methods, manipulation |
-| 05 | [`loopsconditionals_05`](./src/loopsconditionals_05) | Loops, conditionals, for-each |
-| 06 | [`staticvsinstance_06`](./src/staticvsinstance_06) | Static vs instance, utility classes |
-| 07 | [`generics_07`](./src/generics_07) | Generics basics |
-| 08 | [`wrapperclasses_08`](./src/wrapperclasses_08) | Wrapper classes, autoboxing |
-| 09 | [`streamslambdas_09`](./src/streamslambdas_09) | Streams, lambda expressions |
-| 10 | [`fileio_10`](./src/fileio_10) | File I/O — reading/writing text, CSV |
-| 11 | [`annotations_11`](./src/annotations_11) | Annotations, how they work |
-| 12 | [`enums_12`](./src/enums_12) | Enums |
+| 01 | [`selectionstatements_01`](./src/selectionstatements_01) | Selection Statements — if, if-else, switch |
+| 02 | [`loops_02`](./src/loops_02) | Loops — for, while, do-while |
+
 
 
 
