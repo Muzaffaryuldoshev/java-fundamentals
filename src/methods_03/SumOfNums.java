@@ -1,4 +1,4 @@
-package methods;
+package methods_03;
 
 public class SumOfNums {
     public static void main(String[] args) {

@@ -15,7 +15,7 @@
 * parantheses and then method body --> (){body}
 
 ### Parameters & arguments 
-* they are both values that are passed into methods 
+* they are both values that are passed into methods_03 
 * parameter -> public static void displayValue (-> int num <-)
   * they act as placeholder for upcoming value and must have data types 
 * argument -> displayValue(-> 5 <-)
@@ -25,7 +25,7 @@
 * Returning value -> a way of to provide result or output from method back to the code that called it
 
 ### Method Overloading 
-* it allows a class to have multiple methods of the same name but different parameters 
+* it allows a class to have multiple methods_03 of the same name but different parameters 
   * big 3 of method overloading 
   1. different data types 
   2. different number of parameters 

@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="Loops fully completed">
-      <change afterPath="$PROJECT_DIR$/src/methods/AreaCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/OddOrEvenReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/SumOfNums.java" afterDir="false" />
+    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="Mehtods classes">
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/CarClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/CharString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/DecimalsBooleans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/DogClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classesObjects_04/ScannerINtegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/OddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods_03/OddOrEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/OddOrEvenReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods_03/OddOrEvenReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods_03/PassByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods_03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/SumOfNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methods_03/SumOfNums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="47" />
+    <option name="cachedIndexableFilesCount" value="51" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -30,6 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -60,71 +68,75 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaySelector.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DifferentStartEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FINRA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FIZZBUZZ.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradeNetsedIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreatestNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreetingHours.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KPHtoMPH.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LaptopModels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddNums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddOrEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddOrEvenReturn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PassByValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Revenue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquareOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquarePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfNums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WeeklyWage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.from1to10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.squarePattern1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculator.executor": "Run",
+    "Application.CarClient.executor": "Run",
+    "Application.DaySelector.executor": "Run",
+    "Application.DecimalsBooleans.executor": "Run",
+    "Application.DifferentStartEnd.executor": "Run",
+    "Application.DogClient.executor": "Run",
+    "Application.EvenNumbers.executor": "Run",
+    "Application.FINRA.executor": "Run",
+    "Application.FIZZBUZZ.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.Grade.executor": "Run",
+    "Application.GradeNetsedIf.executor": "Run",
+    "Application.GreatestNum.executor": "Run",
+    "Application.GreetingHours.executor": "Run",
+    "Application.KPHtoMPH.executor": "Run",
+    "Application.LaptopModels.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NestedLoops.executor": "Run",
+    "Application.Number.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
+    "Application.OddNums.executor": "Run",
+    "Application.OddOrEven.executor": "Run",
+    "Application.OddOrEvenReturn.executor": "Run",
+    "Application.PassByValue.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
+    "Application.Revenue.executor": "Run",
+    "Application.ScannerINtegers.executor": "Run",
+    "Application.SquareOfNumbers.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.SumEvenOdd.executor": "Run",
+    "Application.SumOfNums.executor": "Run",
+    "Application.TrafficLight.executor": "Run",
+    "Application.WeeklyWage.executor": "Run",
+    "Application.doWhile.executor": "Run",
+    "Application.from1to10.executor": "Run",
+    "Application.squarePattern1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.OddOrEvenReturn">
-    <configuration name="FINRA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops_02.FINRA" />
+}]]></component>
+  <component name="RunManager" selected="Application.DecimalsBooleans">
+    <configuration name="CarClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesObjects_04.CarClient" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops_02.*" />
+          <option name="PATTERN" value="classesObjects_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +144,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.OddOrEven" />
+    <configuration name="DecimalsBooleans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesObjects_04.DecimalsBooleans" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="classesObjects_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesObjects_04.DogClient" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classesObjects_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +171,11 @@
       </method>
     </configuration>
     <configuration name="OddOrEvenReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.OddOrEvenReturn" />
+      <option name="MAIN_CLASS_NAME" value="methods_03.OddOrEvenReturn" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="methods_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,25 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.PassByValue" />
+    <configuration name="ScannerINtegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesObjects_04.ScannerINtegers" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.SumOfNums" />
-      <module name="java-fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="classesObjects_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalsBooleans" />
+        <item itemvalue="Application.ScannerINtegers" />
+        <item itemvalue="Application.CarClient" />
+        <item itemvalue="Application.DogClient" />
         <item itemvalue="Application.OddOrEvenReturn" />
-        <item itemvalue="Application.SumOfNums" />
-        <item itemvalue="Application.PassByValue" />
-        <item itemvalue="Application.OddOrEven" />
-        <item itemvalue="Application.FINRA" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +232,8 @@
       <workItem from="1787578609849" duration="3001000" />
       <workItem from="1789811866116" duration="630000" />
       <workItem from="1789813600293" duration="2000" />
+      <workItem from="1790278423516" duration="1375000" />
+      <workItem from="1790322531217" duration="6954000" />
     </task>
     <task id="LOCAL-00001" summary="Selection statements part 1">
       <option name="closed" value="true" />
@@ -245,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787232829122</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mehtods classes">
+      <option name="closed" value="true" />
+      <created>1790278465551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790278465551</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +277,7 @@
     <MESSAGE value="Selection statements part 1" />
     <MESSAGE value="Selection statements part 2" />
     <MESSAGE value="Loops fully completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops fully completed" />
+    <MESSAGE value="Mehtods classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mehtods classes" />
   </component>
 </project>

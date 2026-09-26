@@ -1,4 +1,4 @@
-package methods;
+package methods_03;
 
 public class OddOrEvenReturn {
     public static boolean isEven(int input){
