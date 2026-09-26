@@ -9,10 +9,14 @@ or `javac`/`java` from the command line.
 
 ## Progress
 
-| # | Package | Topic |
-|---|---------|-------|
-| 01 | [`selectionstatements_01`](./src/selectionstatements_01) | Selection Statements — if, if-else, switch |
-| 02 | [`loops_02`](./src/loops_02) | Loops — for, while, do-while |
+| #  | Package | Topic                                          |
+|----|---------|------------------------------------------------|
+| 01 | [`selectionstatements_01`](./src/selectionstatements_01) | Selection Statements — if, if-else, switch     |
+| 02 | [`loops_02`](./src/loops_02) | Loops — for, while, do-while                   |
+| 03 | [`methods_03`](./src/methods_03) | methods                                        |
+| 04 | [`classesObjects_04`](./src/classesObjects_04) | Classes and Objects with Java Memory Managment |
+
+
 
 
 
