@@ -60,3 +60,33 @@ regardless of their case, and **false** otherwise
 | `lastIndexOf(x)` | Index of last occurrence, or -1   | "banana".lastIndexOf('a') → 5        |
 | `startsWith(s)`  | True if it begins with s          | 	"Java".startsWith("Ja") → true      |
 | `endsWith(s)`    | True if it ends with s            | "test.java".endsWith(".java") → true |
+
+### Splitting And Joining 
+| Method             | What it does                                                 | Example                                                             |
+|--------------------|--------------------------------------------------------------|---------------------------------------------------------------------|
+| `.split(specChar)` | The argument is a regex, so special characters need escaping | ex: String[] names = csv.split(",");                                |
+| `.join()`          | joins strings together                                       | ex:  String joined = String.join("-", names);   // "ali-vali-sami"  |
+
+### Extracting and modifying
+| Method                             | What it does                                             | Example                                                                 |
+|------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------|
+| `.substring(index)`                | extracts unti a given index                              | ex: s.substring(4);      // "mation"                                    |
+| `.substring(2indexes)`             | extracts between given indexes inclusive and exclusive   | esx: s.substring(0, 4);   // "auto"    (start inclusive, END EXCLUSIVE) |
+| `.replace("char out","char in")`   | replaces given char in a string (treats as plain text)   | ex: "a.b.c".replace(".", "-");       // "a-b-c"                         |
+| `replaceAll(pattern, replacement)` | replaces all matches while replaces() does first match   | ex: a1b22c".replaceAll("\\d", "");  // "abc                             |
+| `toUpperCase()`                    | turns full string into Uppercase                         | ex: "Java".toUpperCase();        // "JAVA"                              |
+| `toLowerCase()`                    | turns full string into Lowercase                         | ex; "Java".toLowerCase();        // "java"                              |
+| `trim()`                           | removes leading/trailing spaces                          | ex:  "  hi  ".trim();             // "hi"                               |
+| `strip() `                         | removes leading/trailing spaces but java11+              | ex: "  hi  ".strip();            // "hi"                                |
+| `repeat(index)`                    | repeats string as what index is given in a method        | ex: "ab".repeat(3);              // "ababab"                            |
+| `concat()`                         | joins two Strings or char also and the same as str + str | ex: "Java".concat("!");          // "Java!"                             |
+
+### Conversion
+| Method               | What it does                          | Example                                                           |
+|----------------------|---------------------------------------|-------------------------------------------------------------------|
+| `toCharArray()`      | turns a string into chars in an array | ex: char[] chars = "Java".toCharArray();     // ['J','a','v','a'] |
+| `valueOf(value)`     | converts  into String                 | ex: String s1 = String.valueOf(42);           // "42"             |
+| `Integer.parseInt()` | returns String int to real  int       | ex:  int n = Integer.parseInt("42");           // String → int    |
+
+
+
