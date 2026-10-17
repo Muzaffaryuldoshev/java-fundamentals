@@ -1,7 +1,7 @@
 ## String 
 
 * String is a non-primitive data type and it is representation of sequences of characters 
-* it is immmutable which means once created, can't be changed 
+* it is immutable that means once created, can't be changed 
 * it is located inside the java.lang package 
 
 
