@@ -64,6 +64,40 @@
 - if we need more control over the iteration process or require aceess to the index, the for loop will be good approach 
 
 
+### Reference Types vs Primitive Types 
+- Reference and Primitive types are two data types in programming language 
+- they represent different kind of storing and accessing data in memory 
+---
+**Primitive Types**
+- byte, short, int, long 
+- float, double 
+- char
+- boolean 
+---
+**Reference(Non-primitive) types**
+- String, Array, Classes, Interfaces
+---
+
+### Returning Array from Methods 
+- returning an array must have the same data type as the method return type 
+- while returning an array, the reference of that array will be returned 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

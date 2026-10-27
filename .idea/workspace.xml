@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="RaedMe Update">
-      <change afterPath="$PROJECT_DIR$/src/string_05/Comparisons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/EachCharecter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/LengthOfName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/comparison/CaseInsensivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/comparison/PasswordCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/lengthAcess/EmptyBlankSingleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/lengthAcess/FirstLastChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/lengthAcess/VowelsConsonents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_05/searching/WordPosition.java" afterDir="false" />
+    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="Therotical part of Array">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/HowManyWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/InitialsOfEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ReversingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SumOfOddNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="64" />
+    <option name="cachedIndexableFilesCount" value="65" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -65,84 +61,89 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CaseInsensivity.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comparisons.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaySelector.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecimalsBooleans.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DifferentStartEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DogClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EachCharecter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmptyBlankSingleChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FINRA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FIZZBUZZ.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstLastChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradeNetsedIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreatestNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreetingHours.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KPHtoMPH.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LaptopModels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LengthOfName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddNums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddOrEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddOrEvenReturn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PassByValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PasswordCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Revenue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerINtegers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquareOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquarePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfNums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VowelsConsonents.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WeeklyWage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WordPosition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.from1to10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.squarePattern1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculator.executor": "Run",
+    "Application.CarClient.executor": "Run",
+    "Application.CaseInsensivity.executor": "Run",
+    "Application.Comparisons.executor": "Run",
+    "Application.DaySelector.executor": "Run",
+    "Application.DecimalsBooleans.executor": "Run",
+    "Application.DifferentStartEnd.executor": "Run",
+    "Application.DogClient.executor": "Run",
+    "Application.EachCharecter.executor": "Run",
+    "Application.EmptyBlankSingleChar.executor": "Run",
+    "Application.EvenNumbers.executor": "Run",
+    "Application.FINRA.executor": "Run",
+    "Application.FIZZBUZZ.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FirstLastChar.executor": "Run",
+    "Application.Grade.executor": "Run",
+    "Application.GradeNetsedIf.executor": "Run",
+    "Application.GreatestNum.executor": "Run",
+    "Application.GreetingHours.executor": "Run",
+    "Application.HowManyWords.executor": "Run",
+    "Application.InitialsOfEmployees.executor": "Run",
+    "Application.KPHtoMPH.executor": "Run",
+    "Application.LaptopModels.executor": "Run",
+    "Application.LengthOfName.executor": "Run",
+    "Application.MaxInArray.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NestedLoops.executor": "Run",
+    "Application.Number.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
+    "Application.OddNums.executor": "Run",
+    "Application.OddOrEven.executor": "Run",
+    "Application.OddOrEvenReturn.executor": "Run",
+    "Application.PassByValue.executor": "Run",
+    "Application.PasswordCheck.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
+    "Application.Revenue.executor": "Run",
+    "Application.ReversingArray.executor": "Run",
+    "Application.ScannerINtegers.executor": "Run",
+    "Application.SquareOfNumbers.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.SumEvenOdd.executor": "Run",
+    "Application.SumOfNums.executor": "Run",
+    "Application.SumOfOddNums.executor": "Run",
+    "Application.TrafficLight.executor": "Run",
+    "Application.VowelsConsonents.executor": "Run",
+    "Application.WeeklyWage.executor": "Run",
+    "Application.WordPosition.executor": "Run",
+    "Application.doWhile.executor": "Run",
+    "Application.from1to10.executor": "Run",
+    "Application.squarePattern1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.WordPosition">
-    <configuration name="CaseInsensivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_05.comparison.CaseInsensivity" />
+}]]></component>
+  <component name="RunManager" selected="Application.HowManyWords">
+    <configuration name="HowManyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.HowManyWords" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_05.comparison.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmptyBlankSingleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_05.lengthAcess.EmptyBlankSingleChar" />
+    <configuration name="InitialsOfEmployees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.InitialsOfEmployees" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_05.lengthAcess.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLastChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_05.lengthAcess.FirstLastChar" />
+    <configuration name="MaxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaxInArray" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_05.lengthAcess.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_05.comparison.PasswordCheck" />
+    <configuration name="ReversingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ReversingArray" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_05.comparison.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_05.searching.WordPosition" />
+    <configuration name="SumOfOddNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.SumOfOddNums" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_05.searching.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordPosition" />
-        <item itemvalue="Application.PasswordCheck" />
-        <item itemvalue="Application.CaseInsensivity" />
-        <item itemvalue="Application.EmptyBlankSingleChar" />
-        <item itemvalue="Application.FirstLastChar" />
+        <item itemvalue="Application.HowManyWords" />
+        <item itemvalue="Application.InitialsOfEmployees" />
+        <item itemvalue="Application.ReversingArray" />
+        <item itemvalue="Application.MaxInArray" />
+        <item itemvalue="Application.SumOfOddNums" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +245,15 @@
       <workItem from="1790595570260" duration="13053000" />
       <workItem from="1791225970836" duration="4205000" />
       <workItem from="1791286571569" duration="32000" />
+      <workItem from="1791533352621" duration="2204000" />
+      <workItem from="1791796414457" duration="3455000" />
+      <workItem from="1791801894755" duration="38000" />
+      <workItem from="1791809108941" duration="1385000" />
+      <workItem from="1792066402699" duration="3407000" />
+      <workItem from="1792228456323" duration="4062000" />
+      <workItem from="1792579494652" duration="547000" />
+      <workItem from="1792669537912" duration="955000" />
+      <workItem from="1792674385086" duration="8196000" />
     </task>
     <task id="LOCAL-00001" summary="Selection statements part 1">
       <option name="closed" value="true" />
@@ -293,7 +303,31 @@
       <option name="project" value="LOCAL" />
       <updated>1790410113767</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="String Methods">
+      <option name="closed" value="true" />
+      <created>1791533393818</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791533393818</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Theorotical part of String Methods completed">
+      <option name="closed" value="true" />
+      <created>1791535522808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791535522808</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Therotical part of Array">
+      <option name="closed" value="true" />
+      <created>1792231043130</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1792231043130</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +340,9 @@
     <MESSAGE value="Mehtods classes" />
     <MESSAGE value="Classes and Objects" />
     <MESSAGE value="RaedMe Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="RaedMe Update" />
+    <MESSAGE value="String Methods" />
+    <MESSAGE value="Theorotical part of String Methods completed" />
+    <MESSAGE value="Therotical part of Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Therotical part of Array" />
   </component>
 </project>
