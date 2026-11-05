@@ -1,4 +1,4 @@
-## Arrays 
+## arrays_06 
 * `Array` is a fundamental data structure that helps to store multiple elements of the same data type
 
 ### Why `Array`
@@ -29,21 +29,21 @@
 
 ### Array's `Utility` Class 
 - that is a special type of class that contains only `static methods` and `no instance variables`
-- its imported from `java.util.Arrays;`
+- its imported from `java.util.arrays_06;`
 ---
 - Array to manipulate and to use as an example: String[] names = {"Ali", "Vali", "Sami"}; 
 - int : double[] prices = {1.5, 2.0};  
 
 | Method                          | Description                                                                    | Example                        |
 |---------------------------------|--------------------------------------------------------------------------------|--------------------------------|
-| `toString(arrVar)`              | Returns a `string` representation of the contents of this array                | Arrays.toString(names)         |
-| `equals(arrVar1, arrVar2) `     | returns `boolean`, checks if both arrays are equal or not                      | Arrays.equals(a, b)            |
-| `sort(arrVar)`                  | sorts the elements of an array in  escending order                             | Arrays.sort(nums);             |
-| `binarySearch(arrVal)`          | Searches for the specified element in the array but after that array is sorted | Arrays.binarySearch(nums, 7);  |
-| `copyOf(arrVar, length)`        | copies the specified array and returns a new array                             | Arrays.copyOf(nums, 3)         |
-| `copyOfRange(arrVar, from, to)` | returns to a new array and copies the specified range of array                 | Arrays.copyOfRang(names, 3,5)  |
-| `fill(arrVar, value)`           | assigns a variable to the specified array                                      | Arrays.fill(names, "Muzaffar") |
-| `deepToString(arrVar)`          | returns a string representation of the multi-dimensional array                 | Arrays.deepToString(prices)    |
+| `toString(arrVar)`              | Returns a `string` representation of the contents of this array                | arrays_06.toString(names)         |
+| `equals(arrVar1, arrVar2) `     | returns `boolean`, checks if both arrays are equal or not                      | arrays_06.equals(a, b)            |
+| `sort(arrVar)`                  | sorts the elements of an array in  escending order                             | arrays_06.sort(nums);             |
+| `binarySearch(arrVal)`          | Searches for the specified element in the array but after that array is sorted | arrays_06.binarySearch(nums, 7);  |
+| `copyOf(arrVar, length)`        | copies the specified array and returns a new array                             | arrays_06.copyOf(nums, 3)         |
+| `copyOfRange(arrVar, from, to)` | returns to a new array and copies the specified range of array                 | arrays_06.copyOfRang(names, 3,5)  |
+| `fill(arrVar, value)`           | assigns a variable to the specified array                                      | arrays_06.fill(names, "Muzaffar") |
+| `deepToString(arrVar)`          | returns a string representation of the multi-dimensional array                 | arrays_06.deepToString(prices)    |
 
 ----
 

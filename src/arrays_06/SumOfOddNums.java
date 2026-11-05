@@ -1,4 +1,4 @@
-package Arrays;
+package arrays_06;
 
 public class SumOfOddNums {
     public static void main(String[] args) {
