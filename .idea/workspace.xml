@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="Arrays are completed.">
-      <change afterPath="$PROJECT_DIR$/src/arrayList_07/BoxingUnboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayList_07/ConvertTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayList_07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayList_07/ShoppingList.java" afterDir="false" />
+    <list default="true" id="2cc47a54-51cd-47d3-9f02-034b3f82f783" name="Changes" comment="ArrayList notes are done!">
+      <change afterPath="$PROJECT_DIR$/src/classes_objects_p2_08/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes_objects_p2_08/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes_objects_p2_08/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes_objects_p2_08/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes_objects_p2_08/SumOfFirstThreeElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/HowManyWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_06/HowManyWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/InitialsOfEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_06/InitialsOfEmployees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/MaxInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_06/MaxInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_06/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/ReversingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_06/ReversingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/SumOfOddNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_06/SumOfOddNums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="73" />
+    <option name="cachedIndexableFilesCount" value="76" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -71,6 +66,7 @@
     "Application.Calculator.executor": "Run",
     "Application.CarClient.executor": "Run",
     "Application.CaseInsensivity.executor": "Run",
+    "Application.Circle.executor": "Run",
     "Application.Comparisons.executor": "Run",
     "Application.ConvertTemp.executor": "Run",
     "Application.DaySelector.executor": "Run",
@@ -93,6 +89,7 @@
     "Application.KPHtoMPH.executor": "Run",
     "Application.LaptopModels.executor": "Run",
     "Application.LengthOfName.executor": "Run",
+    "Application.Light.executor": "Run",
     "Application.MaxInArray.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NestedLoops.executor": "Run",
@@ -111,7 +108,9 @@
     "Application.ShoppingList.executor": "Run",
     "Application.SquareOfNumbers.executor": "Run",
     "Application.SquarePattern.executor": "Run",
+    "Application.StaticImport.executor": "Run",
     "Application.SumEvenOdd.executor": "Run",
+    "Application.SumOfFirstThreeElements.executor": "Run",
     "Application.SumOfNums.executor": "Run",
     "Application.SumOfOddNums.executor": "Run",
     "Application.TrafficLight.executor": "Run",
@@ -144,13 +143,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShoppingList">
-    <configuration name="BoxingUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayList_07.BoxingUnboxing" />
+  <component name="RunManager" selected="Application.SumOfFirstThreeElements">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes_objects_p2_08.Circle" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrayList_07.*" />
+          <option name="PATTERN" value="classes_objects_p2_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,38 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayList_07.ConvertTemp" />
+    <configuration name="Light" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes_objects_p2_08.Light" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrayList_07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HowManyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_06.HowManyWords" />
-      <module name="java-fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InitialsOfEmployees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_06.InitialsOfEmployees" />
-      <module name="java-fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays_06.*" />
+          <option name="PATTERN" value="classes_objects_p2_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,13 +183,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StaticImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes_objects_p2_08.StaticImport" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes_objects_p2_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfFirstThreeElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes_objects_p2_08.SumOfFirstThreeElements" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes_objects_p2_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfFirstThreeElements" />
+        <item itemvalue="Application.StaticImport" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Light" />
         <item itemvalue="Application.ShoppingList" />
-        <item itemvalue="Application.ConvertTemp" />
-        <item itemvalue="Application.BoxingUnboxing" />
-        <item itemvalue="Application.HowManyWords" />
-        <item itemvalue="Application.InitialsOfEmployees" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +263,9 @@
       <workItem from="1793110314163" duration="52000" />
       <workItem from="1793172072121" duration="7274000" />
       <workItem from="1793711296877" duration="73000" />
-      <workItem from="1793871395684" duration="3308000" />
+      <workItem from="1793871395684" duration="4241000" />
+      <workItem from="1793888410507" duration="2915000" />
+      <workItem from="1794043236463" duration="5604000" />
     </task>
     <task id="LOCAL-00001" summary="Selection statements part 1">
       <option name="closed" value="true" />
@@ -346,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793110338502</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ArrayList notes are done!">
+      <option name="closed" value="true" />
+      <created>1793874791874</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1793874791874</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,6 +372,7 @@
     <MESSAGE value="Theorotical part of String Methods completed" />
     <MESSAGE value="Therotical part of Array" />
     <MESSAGE value="Arrays are completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays are completed." />
+    <MESSAGE value="ArrayList notes are done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList notes are done!" />
   </component>
 </project>
